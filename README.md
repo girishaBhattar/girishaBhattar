@@ -1,5 +1,13 @@
 ## Hi there 👋
+# Hi, I'm Girisha 👋
 
+- 🎓 B.Tech in AI & ML @ MAKAUT
+- 💻 Building with Python, ML, IoT
+- 🔭 Current: Smart Sensors & E-Commerce projects
+- 🌱 Learning: APIs, Docker, Threads & Async in Python
+- 📫 Reach me: girisha@example.com • linkedin.com/in/girishab
+
+⭐ *Always exploring, always learning.*
 <!--
 **girishaBhattar/girishaBhattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
