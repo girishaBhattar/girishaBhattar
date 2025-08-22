@@ -5,7 +5,7 @@
 - 💻 Building with Python, ML, IoT
 - 🔭 Current: Smart Sensors & E-Commerce projects
 - 🌱 Learning: APIs, Docker, Threads & Async in Python
-- 📫 Reach me: girisha@example.com • linkedin.com/in/girishab
+- 📫 Reach me: girishabhattar8@gmail.com • linkedin.com/in/girishab
 
 ⭐ *Always exploring, always learning.*
 <!--
