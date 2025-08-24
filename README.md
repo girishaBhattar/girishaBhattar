@@ -1,3 +1,5 @@
+⭐"Progress comes from the habits you build, not the shortcuts you seek."
+
 ## Hi there 👋
 # Hi, I'm Girisha 👋
 
